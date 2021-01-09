@@ -3,7 +3,7 @@
     html body {
         font-family: '{{ .Site.Params.font }}', sans-serif;
         font-size: large;
-        background-color: {{ .Site.Params.backgroundColor | default "white" }};
+        background-color: '{{ .Site.Params.backgroundColor | default "white" }}';
     }
 
     :root {
@@ -14,7 +14,7 @@
 </style>
 
 <!-- main -->
-<link type="text/css" rel="stylesheet" href="{{ "css/main.css" | absURL }}">
+<link rel="stylesheet" href='{{ "css/main.css" | absURL }}'>
 
 <!-- custom -->
 {{ range .Site.Params.css }} <link rel="stylesheet" href="{{ . | absURL }}"> {{ end }}
