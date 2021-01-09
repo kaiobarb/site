@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kaio</title>
+    <link>http://liftaris.com/post/</link>
+    <description>Recent content in Posts on Kaio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://liftaris.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Start</title>
+      <link>http://liftaris.com/post/anotherstart/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://liftaris.com/post/anotherstart/</guid>
+      <description>Hey We are now one week into 2021. Among all the festivities, celebrations, and general newness in my life, I&amp;rsquo;m reminded to take some time to write down my intentions.
+This follows what has been a notable year to most, including myself.
+In Retrospect Looking back, 2020 did not live up to my expectations (no great surprise there,) though it was not all bad. I would qualify this past year as passive, if I were to choose a single word for it.</description>
+    </item>
+    
+  </channel>
+</rss>

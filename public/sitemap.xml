@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://liftaris.com/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://liftaris.com/post/anotherstart/</loc>
+    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liftaris.com/</loc>
+    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liftaris.com/post/</loc>
+    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://liftaris.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://liftaris.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://liftaris.com/project/</loc>
+  </url>
+  
+  <url>
+    <loc>http://liftaris.com/tags/</loc>
+  </url>
+  
+</urlset>
