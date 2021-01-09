@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaio</title>
-    <link>http://liftaris.com/</link>
+    <link>//liftaris.com/</link>
     <description>Recent content on Kaio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://liftaris.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="//liftaris.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1</title>
-      <link>http://liftaris.com/project/project1/</link>
+      <link>//liftaris.com/project/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://liftaris.com/project/project1/</guid>
+      <guid>//liftaris.com/project/project1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Another Start</title>
-      <link>http://liftaris.com/post/anotherstart/</link>
+      <link>//liftaris.com/post/anotherstart/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://liftaris.com/post/anotherstart/</guid>
+      <guid>//liftaris.com/post/anotherstart/</guid>
       <description>Hey We are now one week into 2021. Among all the festivities, celebrations, and general newness in my life, I&amp;rsquo;m reminded to take some time to write down my intentions.
 This follows what has been a notable year to most, including myself.
 In Retrospect Looking back, 2020 did not live up to my expectations (no great surprise there,) though it was not all bad. I would qualify this past year as passive, if I were to choose a single word for it.</description>
@@ -29,10 +29,10 @@ In Retrospect Looking back, 2020 did not live up to my expectations (no great su
     
     <item>
       <title>About</title>
-      <link>http://liftaris.com/about/</link>
+      <link>//liftaris.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://liftaris.com/about/</guid>
+      <guid>//liftaris.com/about/</guid>
       <description>I&amp;rsquo;m a hobbyist programmer with an interest in game development and good software. I look for beauty in art, life, and purpose. Sometimes I make things&amp;ndash;most of the time I don&amp;rsquo;t, but when I do you&amp;rsquo;ll see them here on this site.</description>
     </item>
     

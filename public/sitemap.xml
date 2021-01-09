@@ -3,38 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://liftaris.com/project/project1/</loc>
+    <loc>//liftaris.com/project/project1/</loc>
   </url>
   
   <url>
-    <loc>http://liftaris.com/post/anotherstart/</loc>
+    <loc>//liftaris.com/post/anotherstart/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://liftaris.com/</loc>
+    <loc>//liftaris.com/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://liftaris.com/post/</loc>
+    <loc>//liftaris.com/post/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://liftaris.com/about/</loc>
+    <loc>//liftaris.com/about/</loc>
   </url>
   
   <url>
-    <loc>http://liftaris.com/categories/</loc>
+    <loc>//liftaris.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://liftaris.com/project/</loc>
+    <loc>//liftaris.com/project/</loc>
   </url>
   
   <url>
-    <loc>http://liftaris.com/tags/</loc>
+    <loc>//liftaris.com/tags/</loc>
   </url>
   
 </urlset>

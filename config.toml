@@ -1,4 +1,4 @@
-baseURL = "http://liftaris.com/"
+baseURL = "//liftaris.com/"
 languageCode = "en-us"
 title = "Kaio"
 theme = "minimal"
